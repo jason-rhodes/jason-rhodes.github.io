@@ -1,0 +1,89 @@
+
+- cort:
+  id: cort
+  name: Cortland Starrett
+  title: President and CEO
+  email: cort@emergentinstruments.com
+  phone: 765-237-3107 x700
+  linkedin:
+  pic: "http://www.emergentinstruments.com/wp/wp-content/uploads/2012/09/Cort.jpg"
+  bio: "Cortland is a Purdue engineer (EE &#8217;88), entrepreneur, teacher and engineering manager.  His career started at IBM developing embedded controllers for disk drive arrays.  He worked 7 years at Bioanalytical Systems, Inc. (now BASi) establishing a foundation of embedded software control for a range of electrochemical and biomechanical instruments many of which are in use today.  Since leaving BASi, Cortland has led engineering development for teams at Pitney Bowes and Mentor Graphics and has founded, funded and presided over ROX Software, Inc.  He is now founder and president of Emergent Instruments, Inc."
+
+- joe:
+  id: joe
+  name: Joe Bougher
+  title: Vice President of Engineering
+  email: joe@emergentinstruments.com
+  phone: 765-237-3107 x701
+  linkedin: "https://www.linkedin.com/in/joe-bougher-3357444"
+  pic: "http://www.emergentinstruments.com/wp/wp-content/uploads/2012/09/Joe.jpg"
+  bio: "Joe is an engineer at heart and loves the challenge of converting ideas to finished products. His 30 plus years experience at BASi honed this skill while affording him the opportunity to specify, design, develop, refine and manufacture a wide range of complex electromechanical systems. With multiple patents to his credit, he is an innovative problem solver with a deep technical background in electromechanical systems and software.
+<table>
+  <thead>
+    <tr>
+      <th>Patents</th>
+    <tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Device and method for electrocardiography on freely moving animals </td>
+    </tr>
+    <tr>
+      <td> Device and method for drug delivery to animals </td>
+    </tr>
+  </tbody>
+</table>
+"
+
+- ed:
+  id: ed
+  name: Ed Burrow
+  title: Chief Operating Officer
+  email: ed@emergentinstruments.com
+  phone: 765-237-3107 x702
+  linkedin:
+  pic: "http://www.emergentinstruments.com/wp/wp-content/uploads/2012/09/Ed.jpg"
+  bio: "Ed is the former GM of Manufacturing with BASi. Ed holds a B.S. in Electrical Engineering Technology from Purdue University. His 25 plus years of experience include various positions in engineering, manufacturing and service management."
+
+- jason:
+  id: jason
+  name: Jason Rhodes
+  title: Director of Software Engineering
+  email: jason@emergentinstruments.com
+  phone: (765) 237-3107 x703
+  linkedin: https://www.linkedin.com/in/jason-rhodes-aab74b4
+  github: https://github.com/jason-rhodes
+  pic: "http://www.emergentinstruments.com/wp/wp-content/uploads/2012/09/Jason.jpg"
+  bio: "Jason is a <a href='http://www.purdue.edu'>Purdue University</a> engineer (EE &#8217;97) who brings software engineering experience to the deeply embedded control required for laboratory instrumentation. During his 20 years at <a href='http://www.basinc.com'>Bioanalytical Systems, Inc.</a> he had a hand in virtually every product now in the field.  Rhodes now leads PC host and embedded software development for the Emergent engineering team."
+
+- jon:
+  id: jon
+  name: Jonathon O. Howell, Ph.D.
+  title: Senior Scientist
+  email: jon@emergentinstruments.com
+  phone: (765) 237-3107 x704
+  linkedin:
+  pic: "http://www.emergentinstruments.com/wp/wp-content/uploads/2013/02/Jon.jpg"
+  bio: "Jon obtained his B.S. in Chemistry from Purdue University in 1980 and his Ph.D. in Analytical Chemistry (R. Mark Wightman, thesis advisor) from Indiana University in 1985.  He spent the next 27 years at Bioanalytical Systems, Inc. (BASi) as part of the electrochemistry products group.  His responsibilities at Emergent include working with the engineering team to develop electrochemical products for research and teaching, customization of products to meet specific customer needs, applications development and general customer support. Areas of interest are microelectrodes, quantitative analysis, bioanalytical applications and mechanistic information. Dr. Howell has been active in the Society for Electroanalytical Chemistry (SEAC) having served on the Board of Directors and as Secretary.<br />
+<a href='http://www.emergentinstruments.com/wp/wp-content/uploads/2012/09/JHowelCV.pdf'>view CV</a></p>"
+
+- rod:
+  id: rod
+  name: Rod Yoder
+  title: Director of Marketing Graphics
+  email: rod@emergentinstruments.com
+  phone: (765) 237-3107 x706
+  linkedin:
+  pic: "http://www.emergentinstruments.com/wp/wp-content/uploads/2012/09/Rod.jpg"
+  bio: "Rod has over 30 years of experience in technical Illustration, CAD, graphic design, web design and marketing communications."
+
+- scott:
+  id: scott
+  name: Scott Peters
+  title: Director of Hardware Engineering
+  email: scott@emergentinstruments.com
+  phone: (765) 237-3107 x707
+  linkedin: 
+  pic:
+  bio: "where is scott's bio?"
+
