@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="assets/css/main.css" />
+
+<div class="home">
+
+  <h1 class="page-heading">Leadership</h1>
+
+  <ul class="post-list">
+    {% for people in site.data.people %}
+      <li>
+        <h3> {{ people.name }} </h3>
+        {{ people.title }}
+        <a href='mailto:{{ people.email }}' target='_blank' title='email'>{{ people.email }}</a>
+
+        <a href='{{ people.linkedin }}' target='_blank' title='linkedin'>{{ people.linkedin }}</a>
+        <li><a href='{{ people.linkedin }}' class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+
+
+
+    {% for people in site.data.people %}
+      <h2><a href="{{ people.pic }}"><img class="alignleft" title="{{ people.id }}" src="{{ people.pic }}" alt="" width="150" height="200" /></a>{{ people.name }}<br /> {{ people.title }}</h2>
+      <p><a href='mailto:{{ people.email }}' target='_blank' title='email'>{{ people.email }}</a></p>
+      <p> {{ people.bio }} </p>
+
+      <ul class="icons">
+        <li class="icon fa-envelope"> <a href="mailto:{{ people.email }}">{{ people.email }}</a> </li>
+        <li class="icon fa-phone"> {{ people.phone }} </li>
+        <li class="icon fa-linkedin"><a href='{{ people.linkedin }}' class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
+      </ul>
+
+      <hr />
+    {% endfor %}
+

@@ -1,0 +1,17 @@
+- cx-cart:
+  id: cx-cart
+  name: Culex Cart
+  pic:
+  description: "This is a serial cart."
+
+- fc-ser:
+  id: fc-ser
+  name: Fraction Collector
+  pic:
+  description: "This is a legacy version fraction collector."
+
+- fc-usb:
+  id: fc-usb
+  name: Fraction Collector
+  pic:
+  description: "This is a fraction collector."
