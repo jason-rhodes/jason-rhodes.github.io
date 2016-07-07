@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% for product in site.products %}
+  <div class="product">
+    <h3><a href="{{ product.url }}">{{ product.title }}</a></h3>
+  </div>
+{% endfor %}
+
+
+
+
+{% for product in site.products %}
+  <div class="product">
+    <h3>{{ product.title }}</h3>
+    {{ product.content }}
+    <ul class="actions">
+      <li><a href="#" class="button">Buy</a></li>
+      <li><a href="#" class="button">Sell</a></li>
+      <li><a href="#" class="button">Repair</a></li>
+    </ul>
+  </div>
+{% endfor %}

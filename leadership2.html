@@ -52,13 +52,13 @@
         <div class="9u">
           <h3>{{ people.name }}</h3>
           <h4>{{ people.title }}</h4>
-          <i class="fa fa-envelope fa-fw"></i> &nbsp; <a href="mailto:{{people.email}}">{{ people.email }}</a> <br>
-          <i class="fa fa-phone fa-fw"></i> &nbsp; {{ people.phone }} <br>
+          <i class="fa fa-envelope fa-lg fa-fw"></i> &nbsp; <a href="mailto:{{people.email}}">{{ people.email }}</a> <br>
+          <i class="fa fa-phone fa-lg fa-fw"></i> &nbsp; {{ people.phone }} <br>
           {% if people.linkedin %}
-            <i class="fa fa-linkedin-square fa-fw"></i> &nbsp; <a href='{{people.linkedin}}'>{{people.linkedin}}</a> <br>
+            <i class="fa fa-linkedin-square fa-lg fa-fw"></i> &nbsp; <a href='https://www.linkedin.com/in/{{people.linkedin}}'>linkedin.com/in/{{people.linkedin}}</a> <br>
           {% endif %}
           {% if people.github %}
-            <i class="fa fa-github fa-fw"></i> &nbsp; <a href='{{people.github}}'>{{people.github}}</a> <br>
+            <i class="fa fa-github fa-lg fa-fw"></i> &nbsp; <a href='https://github.com/{{people.github}}'>github.com/{{people.github}}</a> <br>
           {% endif %}
           <p> </p>
           <p> {{ people.bio }} </p>
